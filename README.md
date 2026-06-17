@@ -1,10 +1,16 @@
+## 👋 Vorstellung
+
 # IT-Learning-FISI
 Learning repository for IT fundamentals, networking, virtualization, and security (FISI).
 # 👋 Hallo, ich bin Jyothirmai Avisana
 
 ## 👩‍🎓 Über mich
+
 Ich bin Umschülerin zur Fachinformatikerin für Systemintegration (IHK) am BFZ Erlangen (seit Februar 2026).  
-Ich verfüge über einen Bachelorabschluss in Electronics and Communication Engineering und habe großes Interesse an IT, Netzwerktechnik und Systemintegration.
+Ich verfüge über einen Bachelorabschluss in Electronics and Communication Engineering.
+
+Ich interessiere mich besonders für Netzwerktechnik und Cybersecurity und baue mein Wissen in diesen Bereichen kontinuierlich aus.
+
 
 ## 💼 Praxiserfahrung
 Während meines Praktikums bei der ProLeit AG (2024) konnte ich erste praktische Erfahrungen im IT-Bereich sammeln:
@@ -25,7 +31,15 @@ Zusätzlich vertiefe ich mein Wissen durch praktische Übungen auf Plattformen w
 
 
 ## 🎯 Ziel
-Mein Ziel ist es, eine qualifizierte Fachinformatikerin für Systemintegration zu werden und praktische Erfahrungen in einem professionellen IT-Umfeld zu sammeln.
+Mein Ziel ist es, eine qualifizierte Fachinformatikerin für Systemintegration zu werden und mich langfristig im Bereich Cybersecurity zu spezialisieren.
+
+## 🔐 Interesse an Cybersecurity
+Ich beschäftige mich aktiv mit Themen der IT-Sicherheit und vertiefe mein Wissen durch Plattformen wie TryHackMe.  
+Dabei lerne ich unter anderem:
+- Grundlagen der Netzwerksicherheit  
+- Schwachstellen und Angriffe  
+- Sicherheitskonzepte und Best Practices  
+
 
 ## 🧠 Stärken
 - Analytisches Denken  
