@@ -1,34 +1,32 @@
 
-# 🔐 CIA-Triade (IT-Sicherheit)
+# CIA-Triade (IT-Sicherheit)
 
-## 📌 Bedeutung
+#Bedeutung
 Die CIA-Triade beschreibt die drei wichtigsten Schutzziele der Informationssicherheit.
 
-## 🔑 Bestandteile
+# Bestandteile
 
-### 🔒 Vertraulichkeit (Confidentiality)
+# Vertraulichkeit (Confidentiality)
 Daten dürfen nur von berechtigten Personen eingesehen werden.
 
-📌 Beispiel:
+ Beispiel:
 - Passwörter müssen geschützt werden  
 - Verschlüsselung schützt sensible Daten  
 
 
-### ✅ Integrität (Integrity)
+#  Integrität (Integrity)
 Daten dürfen nicht unbefugt verändert werden.
 
-📌 Beispiel:
+ Beispiel:
 - Daten müssen korrekt und unverändert bleiben  
 - Schutz vor Manipulation  
 
-### 📡 Verfügbarkeit (Availability)
+# Verfügbarkeit (Availability)
 Daten und Systeme müssen jederzeit erreichbar sein.
 
-📌 Beispiel:
+Beispiel:
 - Server müssen immer funktionieren  
 - Schutz vor Ausfällen oder Angriffen  
 
-
-
-## ✅ Fazit
+## Fazit
 Die CIA-Triade ist die Grundlage der IT-Sicherheit und wird in der Risikoanalyse verwendet.
