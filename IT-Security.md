@@ -2,55 +2,55 @@
 
 # 🔐 Risikoanalyse & IT-Sicherheit
 
-## 📌 Einführung
+##  Einführung
 In diesem Bereich dokumentiere ich meine Kenntnisse im Bereich Risikoanalyse, IT-Sicherheit und Schutzbedarfsanalyse im Rahmen meiner Umschulung.
 
 
-## 🧩 Grundlagen der Risikoanalyse
+##  Grundlagen der Risikoanalyse
 
 Eine Risikoanalyse dient dazu, Risiken in einem System zu erkennen, zu bewerten und geeignete Maßnahmen zu planen.
 
-### 🔑 Wichtige Bestandteile
+###  Wichtige Bestandteile
 - **Schutzobjekte (Assets):** z. B. Server, Datenbanken  
 - **Schutzbedarf:** Vertraulichkeit, Integrität, Verfügbarkeit  
 - **Bedrohungen:** z. B. Hackerangriffe, Phishing, Ausfälle  
 - **Schwachstellen:** z. B. fehlende Updates, keine Schulung   
 
 
-## ⚖️ Risikobewertung
+##  Risikobewertung
 
 Risiken werden anhand von zwei Faktoren bewertet:
 - **Eintrittswahrscheinlichkeit**
 - **Schadensausmaß**
 
-👉 Formel:
+Formel:
 Risiko = Wahrscheinlichkeit × Schaden   
 
 
-## 🏢 Beispiel: Online-Shop Risikoanalyse
+#Beispiel: Online-Shop Risikoanalyse
 
-### 📊 Assets
+# Assets
 - Webserver  
 - Datenbanken  
 - Admin-Zugänge  
 - Backup-System  
 - Zahlungsanbindung   
 
-### 🚨 Bedrohungen
+# Bedrohungen
 - Phishing  
 - DDoS-Angriffe  
 - Ransomware  
 - Datenverlust  
 - Serverausfall   
 
-### ⚠️ Schwachstellen
+# Schwachstellen
 - Keine MFA  
 - Fehlendes Patchmanagement  
 - Keine Schulung  
 - Backups nicht getestet   
 
 
-## 📊 Bewertung von Risiken
+## Bewertung von Risiken
 
 Beispiel:
 - Phishing → hohe Wahrscheinlichkeit + hoher Schaden = sehr hohes Risiko  
@@ -58,15 +58,15 @@ Beispiel:
 
 ---
 
-## 🛠️ Maßnahmen (Risikobehandlung)
+## Maßnahmen (Risikobehandlung)
 
 Es gibt 4 Strategien:
-- ✅ Risiko vermeiden  
-- ✅ Risiko reduzieren  
-- ✅ Risiko übertragen  
-- ✅ Risiko akzeptieren   
+-  Risiko vermeiden  
+-  Risiko reduzieren  
+- Risiko übertragen  
+- Risiko akzeptieren   
 
-### 📌 Konkrete Maßnahmen
+###  Konkrete Maßnahmen
 - MFA einführen  
 - Patchmanagement  
 - Backups testen  
@@ -74,21 +74,21 @@ Es gibt 4 Strategien:
 - Monitoring einsetzen   
 
 
-## 🔄 Schutzbedarfsanalyse (BSI)
+# Schutzbedarfsanalyse (BSI)
 
 Die Schutzbedarfsanalyse bewertet, wie wichtig ein System ist.
 
-### 🔐 Grundwerte (CIA-Triade)
+#Grundwerte (CIA-Triade)
 - Vertraulichkeit  
 - Integrität  
 - Verfügbarkeit   
 
-### 📊 Kategorien
+# Kategorien
 - Normal  
 - Hoch  
 - Sehr hoch   
 
-## 🛡️ Technische & Organisatorische Maßnahmen (TOM)
+# Technische & Organisatorische Maßnahmen (TOM)
 
 Beispiele:
 - Zutrittskontrolle (Gebäude)  
@@ -97,7 +97,7 @@ Beispiele:
 - Verschlüsselung  
 - Backup & USV 
 
-## 🔄 Sicherheitsprozess (BSI)
+# Sicherheitsprozess (BSI)
 
 1. Sicherheitsleitlinie  
 2. Strukturanalyse  
@@ -107,7 +107,7 @@ Beispiele:
 
 
 
-## 🧠 Was ich gelernt habe
+# Was ich gelernt habe
 - Risiken systematisch analysieren  
 - Bedrohungen und Schwachstellen erkennen  
 - Risiken bewerten und priorisieren  
